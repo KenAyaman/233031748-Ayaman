@@ -1,0 +1,55 @@
+
+h1,p {
+    text-align: center;
+}
+
+h1 {
+    margin-top: 2rem;
+    margin-bottom: 0;
+}
+
+
+form {
+    background-color: rgb(44, 62, 80);
+    color: white;
+    border-radius: 5px;
+    width: 60vw;
+    max-width: 700px;
+    min-width: 350px;
+    margin: 0 auto;
+    padding: 25px 25px 25px 25px;
+}
+
+#survey-form {
+    margin: 20px; 
+}
+
+#survey-form label {
+    display: block;
+    margin-bottom: 15px; /
+}
+
+#survey-form input {
+    margin-top: 5px;
+    width: 40%;
+}
+
+textarea {
+    min-height: 6em;
+    resize: vertical;
+    width: 100%;
+}
+
+#butt {
+    text-align: center;
+    
+}
+
+#submit {
+    padding: 13px;
+    background-color: #4CAF50;
+    color: white;
+    border-radius: 5px;
+    border: none;
+
+}
