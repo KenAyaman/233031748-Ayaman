@@ -1,0 +1,71 @@
+body {
+    background-image: url(https://www.shutterstock.com/image-illustration/background-studio-portrait-backdrops-photo-600nw-1576943953.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: arial;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+
+#main {
+    position: relative;
+    padding: 20px;
+    background-image: url(https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm00OTQtYmctMDE4Yy14LmpwZw.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 80%;
+    max-width: 800px;
+    margin: 5% auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+}
+
+#title {
+    font-size: 2rem;
+    color: #E30B5C;
+    margin-bottom: 10px;
+}
+
+img {
+    display: block; 
+    margin: 0 auto; 
+}
+
+#image{
+    max-width: 100%;
+    border-radius: 10px;
+}
+
+#img-caption {
+    font-size: larger;
+    margin-top: 5%;
+    color: #E30B5C;
+}
+
+#tribute-info {
+    font-size: 1.2rem;
+    color: #000;
+    margin: 10px 0;
+}
+
+a {
+    padding: 10px 20px;
+    border: 2px solid;
+    display: inline-block;
+    color: white;
+    background-color: #E30B5C;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: background-color 0.3s, border-color 0.3s;
+}
+
+a:hover {
+    background-color: white;
+    color: #E30B5C;
+    border-color: white;
+}
+
+li {
+    list-style: none;
+}
