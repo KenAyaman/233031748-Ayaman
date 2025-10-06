@@ -14,7 +14,7 @@
         $favColor = "blue";
 
 
-        echo "Hi, I'm $name, I am $age years old, and my favorite color is $favColor.";
+        echo "Hi, I'm $name, I am $age years old, and my favorite color is <span style='color: blue;'>$favColor</span>.";
     ?>
     
 </body>
