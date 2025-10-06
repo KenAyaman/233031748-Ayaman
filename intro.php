@@ -8,11 +8,13 @@
 <body>
     
     <?php
-        $age="20";
-        $name="John";
-        $color="blue";
 
-        echo "Hi, I’m John, I am 20 years old, and my favorite color is blue.";
+        $name = "Ken";
+        $age = 20;
+        $favColor = "blue";
+
+
+        echo "Hi, I'm $name, I am $age years old, and my favorite color is $favColor.";
     ?>
     
 </body>
